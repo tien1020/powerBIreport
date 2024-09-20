@@ -1,2 +1,2 @@
 # powerbireport
-(./Sale Report.pdf)
+("Sale Report.pdf")
